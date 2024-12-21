@@ -1,0 +1,2 @@
+# satyanarayana
+full stack develpment
